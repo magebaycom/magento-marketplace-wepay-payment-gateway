@@ -9,7 +9,6 @@
 	<li>Provide payment split to all vendors for their products as well as for administrators about their commissions and products.</li>
 	<li>Accepts primary credit card and bank account.</li>
 	<li>Automatically return card by administrators for any order.</li>
-	<li>Turn on / off payment method from administrators panel.</li>
 	<li>Provide secure, trusted and fast payment to your buyers.</li>
 </ul>
 
